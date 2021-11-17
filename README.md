@@ -6,7 +6,7 @@ Title | Publication  | Team/Authors  | Methods
  [Secure bilevel asynchronous vertical federated learning with backward updating](https://ojs.aaai.org/index.php/AAAI/article/view/17301) | AAAI | Xidian University  |  
  [Privacy-Preserving Asynchronous Vertical Federated Learning Algorithms for Multiparty Collaborative Learning](https://arxiv.org/abs/1812.03288) | TNNLS | Mohamed bin Zayed University of Artificial Intelligence/Xidian University  | 
  [Large-scale Secure XGB for Vertical Federated Learning](https://dl.acm.org/doi/abs/10.1145/3459637.348236) | CIKM | Ant Group | 
- [Desirable Companion for Vertical Federated Learning: New Zeroth-Order Gradient Based Algorithm](https://dl.acm.org/doi/pdf/10.1145/3459637.3482249) | CIKM | Xidian University | 2021 | 
+ [Desirable Companion for Vertical Federated Learning: New Zeroth-Order Gradient Based Algorithm](https://dl.acm.org/doi/pdf/10.1145/3459637.3482249) | CIKM | Xidian University| 
  [AsySQN: Faster Vertical Federated Learning Algorithms with Better Computation Resource Utilization](https://dl.acm.org/doi/abs/10.1145/3447548.3467169) | KDD| Xidian University & JD Tech |
 [Feature Inference Attack on Model Predictions in Vertical Federated Learning](https://arxiv.org/abs/2010.10152) |  IEEE ICDE  | National University of Singapore | Infer participants' features based on GAN
 [Defending against Reconstruction Attack in Vertical Federated Learning](https://fl-icml.github.io/2021/papers/FL-ICML21_paper_21.pdf) |  ICML Workshop  | Bytedance |
