@@ -35,7 +35,7 @@ Title | Publication  | Team/Authors  | Methods
 [VAFL: a Method of Vertical Asynchronous Federated Learning](https://arxiv.org/abs/2007.06081) | ICML Workshop | Rensselaer Polytechnic Institute/UCLA  |
 [FedMVT: Semi-supervised Vertical Federated Learning with MultiView Training](https://arxiv.org/abs/2008.10838v1) | IJCAI Workshop | WeBank|
 
-## 2021 Arxiv
+## 2020 Arxiv
 Title | Team/Authors | Methods
 :------: | :------: | :------:
 [Privacy Leakage of Real-World Vertical Federated Learning](https://arxiv.org/abs/2011.09290) | Ant Group/Zhejiang University |
