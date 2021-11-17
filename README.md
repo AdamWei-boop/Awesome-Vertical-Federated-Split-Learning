@@ -4,7 +4,7 @@
 Title | Publication  | Team/Authors  | Methods
  :------: | :------: | :------: | :------:
  [Unleashing the Tiger: Inference Attacks on Split Learning](https://arxiv.org/abs/2012.02670) |  CCS  |EPFL/George Mason University|
- [Unleashing the Tiger: Inference Attacks on Split Learning](https://nesa.zju.edu.cn/download/fc_pdf_label_infer.pdf) |  NDSS  |Zhejiang University|
+ [Label Inference Attacks Against Vertical Federated Learning](https://nesa.zju.edu.cn/download/fc_pdf_label_infer.pdf) |  NDSS  |Zhejiang University|
 [CAFE: Catastrophic Data Leakage in Vertical Federated Learning](https://arxiv.org/abs/2110.15122) | NeurIPS|Rensselaer Polytechnic Institute/IBM Research |
  [AsySQN: Faster Vertical Federated Learning Algorithms with Better Computation Resource Utilization](https://dl.acm.org/doi/abs/10.1145/3447548.3467169) | KDD| Xidian University & JD Tech |
 [Feature Inference Attack on Model Predictions in Vertical Federated Learning](https://arxiv.org/abs/2010.10152) |  IEEE ICDE  | National University of Singapore |
