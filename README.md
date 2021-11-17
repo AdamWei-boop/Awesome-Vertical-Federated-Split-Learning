@@ -13,11 +13,12 @@ Title | Publication  | Team/Authors  | Methods
 [Implementing Vertical Federated Learning Using Autoencoders: Practical Application, Generalizability, and Utility Study](https://medinform.jmir.org/2021/6/e26598/) |  JMIR Med. Inform.  | Yonsei University College of Medicine |
 [Vertical Federated Learning for Higher-Order Factorization Machines](https://link.springer.com/chapter/10.1007/978-3-030-75765-6_28/) |  PAKDD  |Hokkaido University |
 [Multi-tier federated learning for vertically partitioned data](https://link.springer.com/chapter/10.1007/978-3-030-75765-6_28/) |  ICASSP  |Rensselaer Polytechnic Institute|
+[Unleashing the Tiger: Inference Attacks on Split Learning](https://arxiv.org/abs/2012.02670) |  CCS  |EPFL/George Mason University|
+[CAFE: Catastrophic Data Leakage in Vertical Federated Learning](https://arxiv.org/abs/2110.15122) | NIPS|Rensselaer Polytechnic Institute/IBM Research |
 
 ## 2021 Arxiv
 Title | Team/Authors | Methods
  :------: | :------: | :------: 
- [CAFE: Catastrophic Data Leakage in Vertical Federated Learning](https://arxiv.org/abs/2110.15122) | Rensselaer Polytechnic Institute/IBM Research |
  [Achieving Model Fairness in Vertical Federated Learning](https://arxiv.org/abs/2109.08344) |  University of Victoria/Huawei |
  [PIVODL: Privacy-preserving vertical federated learning over distributed labels](https://arxiv.org/abs/2108.11444) | University of Surrey |
  [A Vertical Federated Learning Framework for Horizontally Partitioned Labels](https://arxiv.org/abs/2106.10056) |  Peking University | 
@@ -30,6 +31,7 @@ Title | Publication  | Team/Authors  | Methods
  [VAFL: a Method of Vertical Asynchronous Federated Learning](https://arxiv.org/abs/2007.06081) | ICML Workshop | Rensselaer Polytechnic Institute/UCLA  |
  [Privacy Preserving Vertical Federated Learning for Tree-based Models](http://www.vldb.org/pvldb/vol13/p2090-wu.pdf) | VLDB Journal | National University of Singapore/Zhejiang University|
  [Federated learning for vision-and-language grounding problems](https://ojs.aaai.org/index.php/AAAI/article/view/6824) | AAAI | Peking University/Tencent|
+ [FedMVT: Semi-supervised Vertical Federated Learning with MultiView Training](https://arxiv.org/abs/2008.10838v1) | IJCAI Workshop | WeBank|
 
 ## 2021 Arxiv
 Title | Team/Authors | Methods
