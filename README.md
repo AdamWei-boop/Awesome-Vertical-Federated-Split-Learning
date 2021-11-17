@@ -15,8 +15,8 @@ Title | Publication  | Team/Authors  | Methods
 [Multi-tier federated learning for vertically partitioned data](https://link.springer.com/chapter/10.1007/978-3-030-75765-6_28/) |  ICASSP  |Rensselaer Polytechnic Institute|
 
 ## 2021 Arxiv
-Title | Team/Authors | Date | Methods
- :------: | :------: | :------: | 
+Title | Team/Authors | Methods
+ :------: | :------: | :------: 
  [CAFE: Catastrophic Data Leakage in Vertical Federated Learning](https://arxiv.org/abs/2110.15122) | Rensselaer Polytechnic Institute/IBM Research |
  [Achieving Model Fairness in Vertical Federated Learning](https://arxiv.org/abs/2109.08344) |  University of Victoria/Huawei |
  [PIVODL: Privacy-preserving vertical federated learning over distributed labels](https://arxiv.org/abs/2108.11444) | University of Surrey |
@@ -32,6 +32,6 @@ Title | Publication  | Team/Authors  | Methods
  [Federated learning for vision-and-language grounding problems](https://ojs.aaai.org/index.php/AAAI/article/view/6824) | AAAI | Peking University/Tencent|
 
 ## 2021 Arxiv
-Title | Team/Authors | Date | Methods
+Title | Team/Authors | Methods
  :------: | :------: | :------:
  [Privacy Leakage of Real-World Vertical Federated Learning](https://arxiv.org/abs/2011.09290) | Ant Group/Zhejiang University |
