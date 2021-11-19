@@ -3,12 +3,12 @@
 ## 2021 Conference or Journal
 Title | Publication  | Team/Authors  | Methods
 :------: | :------: | :------: | :------:
-[Unleashing the Tiger: Inference Attacks on Split Learning](https://arxiv.org/abs/2012.02670) |  CCS  |EPFL/George Mason University|
-[VF2Boost: Very Fast Vertical Federated Gradient Boosting for Cross-Enterprise Learning](https://dl.acm.org/doi/abs/10.1145/3448016.3457241) | SIGMOD| Peking University/Tencent|
-[Label Inference Attacks Against Vertical Federated Learning](https://nesa.zju.edu.cn/download/fc_pdf_label_infer.pdf) |  NDSS  |Zhejiang University|
-[CAFE: Catastrophic Data Leakage in Vertical Federated Learning](https://arxiv.org/abs/2110.15122) | NeurIPS|Rensselaer Polytechnic Institute/IBM Research |
-[AsySQN: Faster Vertical Federated Learning Algorithms with Better Computation Resource Utilization](https://dl.acm.org/doi/abs/10.1145/3447548.3467169) | KDD| Xidian University & JD Tech |
-[Feature Inference Attack on Model Predictions in Vertical Federated Learning](https://arxiv.org/abs/2010.10152) |  IEEE ICDE  | National University of Singapore |
+[Unleashing the tiger: Inference attacks on split learning](https://arxiv.org/abs/2012.02670) |  CCS  |EPFL/George Mason University|
+[VF2Boost: Very fast vertical federated gradient boosting for cross-enterprise learning](https://dl.acm.org/doi/abs/10.1145/3448016.3457241) | SIGMOD| Peking University/Tencent|
+[Label inference attacks against vertical federated learning](https://nesa.zju.edu.cn/download/fc_pdf_label_infer.pdf) |  NDSS  |Zhejiang University|
+[CAFE: Catastrophic data leakage in vertical federated learning](https://arxiv.org/abs/2110.15122) | NeurIPS|Rensselaer Polytechnic Institute/IBM Research |
+[AsySQN: Faster vertical federated learning algorithms with better computation resource utilization](https://dl.acm.org/doi/abs/10.1145/3447548.3467169) | KDD| Xidian University & JD Tech |
+[Feature inference attack on model predictions in vertical federated learning](https://arxiv.org/abs/2010.10152) |  IEEE ICDE  | National University of Singapore |
 [Secure bilevel asynchronous vertical federated learning with backward updating](https://ojs.aaai.org/index.php/AAAI/article/view/17301) | AAAI | Xidian University  |  
 [Privacy-Preserving Asynchronous Vertical Federated Learning Algorithms for Multiparty Collaborative Learning](https://arxiv.org/abs/1812.03288) | TNNLS | Mohamed bin Zayed University of Artificial Intelligence/Xidian University  | 
 [Large-scale Secure XGB for Vertical Federated Learning](https://dl.acm.org/doi/abs/10.1145/3459637.348236) | CIKM | Ant Group | 
