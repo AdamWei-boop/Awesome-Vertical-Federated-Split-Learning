@@ -32,8 +32,13 @@ Title | Publication  | Team/Authors  | Methods
 :------: | :------: | :------: | :------:
 [Privacy Preserving Vertical Federated Learning for Tree-based Models](http://www.vldb.org/pvldb/vol13/p2090-wu.pdf) | VLDB Journal | National University of Singapore/Zhejiang University|
 [Federated learning for vision-and-language grounding problems](https://ojs.aaai.org/index.php/AAAI/article/view/6824) | AAAI | Peking University/Tencent|
+[Split Deep Q-Learning for Robust Object Singulation](https://ieeexplore.ieee.org/abstract/document/9196647) | ICRA | Aristotle University of Thessaloniki|
 [VAFL: a Method of Vertical Asynchronous Federated Learning](https://arxiv.org/abs/2007.06081) | ICML Workshop | Rensselaer Polytechnic Institute/UCLA  |
 [FedMVT: Semi-supervised Vertical Federated Learning with MultiView Training](https://arxiv.org/abs/2008.10838v1) | IJCAI Workshop | WeBank|
+[End-to-End Evaluation of Federated Learning and Split Learning for Internet of Things](https://ieeexplore.ieee.org/abstract/document/9252066) | SRDS | Data61, CSIRO|
+[Communication-Efficient Multimodal Split Learning for mmWave Received Power Prediction](https://ieeexplore.ieee.org/abstract/document/9026781) | IEEE Communications Letters | Kyoto University|
+[Privacy-Sensitive Parallel Split Learning](https://ieeexplore.ieee.org/abstract/document/9016486) | ICOIN | Chung-Ang University|
+[Combining split and federated architectures for efficiency and privacy in deep learning](https://dl.acm.org/doi/abs/10.1145/3386367.3431678) | CONEXT | Saint Louis University|
 
 ## 2020 Arxiv
 Title | Team/Authors | Methods
