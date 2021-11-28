@@ -5,7 +5,7 @@ Title | Publication  | Team/Authors  | Methods
 :------: | :------: | :------: | :------:
 [Unleashing the tiger: Inference attacks on split learning](https://arxiv.org/abs/2012.02670) |  CCS  |EPFL/George Mason University|
 [VF2Boost: Very fast vertical federated gradient boosting for cross-enterprise learning](https://dl.acm.org/doi/abs/10.1145/3448016.3457241) | SIGMOD| Peking University/Tencent|
-[Label inference attacks against vertical federated learning](https://nesa.zju.edu.cn/download/fc_pdf_label_infer.pdf) |  NDSS  |Zhejiang University|
+[Label inference attacks against vertical federated learning](https://nesa.zju.edu.cn/download/fc_pdf_label_infer.pdf) |  USENIX Security  |Zhejiang University|
 [CAFE: Catastrophic data leakage in vertical federated learning](https://arxiv.org/abs/2110.15122) | NeurIPS|Rensselaer Polytechnic Institute/IBM Research |
 [AsySQN: Faster vertical federated learning algorithms with better computation resource utilization](https://dl.acm.org/doi/abs/10.1145/3447548.3467169) | KDD| Xidian University & JD Tech |
 [Feature inference attack on model predictions in vertical federated learning](https://arxiv.org/abs/2010.10152) |  IEEE ICDE  | National University of Singapore |
