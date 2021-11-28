@@ -30,6 +30,7 @@ Title | Team/Authors | Methods
 ## 2020 Conference or Journal
 Title | Publication  | Team/Authors  | Methods
 :------: | :------: | :------: | :------:
+[Federated Doubly Stochastic Kernel Learning for Vertically Partitioned Data](https://dl.acm.org/doi/abs/10.1145/3394486.3403298) | KDD | JD Finance America Corporation|
 [Privacy Preserving Vertical Federated Learning for Tree-based Models](http://www.vldb.org/pvldb/vol13/p2090-wu.pdf) | VLDB Journal | National University of Singapore/Zhejiang University|
 [Federated learning for vision-and-language grounding problems](https://ojs.aaai.org/index.php/AAAI/article/view/6824) | AAAI | Peking University/Tencent|
 [Split Deep Q-Learning for Robust Object Singulation](https://ieeexplore.ieee.org/abstract/document/9196647) | ICRA | Aristotle University of Thessaloniki|
